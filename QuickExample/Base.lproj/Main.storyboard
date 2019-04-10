@@ -32,7 +32,7 @@
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vFm-XN-6i6">
                                 <rect key="frame" x="20" y="82" width="374" height="30"/>
-                                <state key="normal" title="Say hello!"/>
+                                <state key="normal" title="Say hi!"/>
                                 <connections>
                                     <action selector="helloButton_Clicked:" destination="BYZ-38-t0r" eventType="touchUpInside" id="b9H-k4-Nvp"/>
                                 </connections>
